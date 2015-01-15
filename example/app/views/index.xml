@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container">
+    <View top="100">
+      <TextField value="{{person.title}}" debounce="1000"></TextField>
+      <TextField value="{{person.first}}" debounce="2000"></TextField>
+      <TextField value="{{person.last}}"></TextField>
+      <Label>Hello, {{person.title}} {{person.first}} {{person.last}}</Label>
+    </View>
+	</Window>
+</Alloy>
