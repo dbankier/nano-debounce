@@ -1,7 +1,7 @@
 {
   "name": "ti-nano-debounce",
   "version": "0.1.0",
-  "description": "A two-way databinding library for Appcelerator's Titanium Alloy framework",
+  "description": "A debounce plugin for nano",
   "directories": {
     "example": "example"
   },
